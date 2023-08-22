@@ -15,5 +15,10 @@ public class test333 {
         System.out.println("sange");
         System.out.println("sange");
         System.out.println("sange");
+
+        System.out.println("laosi");
+        System.out.println("laosi");
+        System.out.println("laosi");
+        System.out.println("laosi");
     }
 }
