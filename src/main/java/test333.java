@@ -10,5 +10,10 @@ public class test333 {
         System.out.println("erge");
         System.out.println("erge");
         System.out.println("erge");
+
+        System.out.println("sange");
+        System.out.println("sange");
+        System.out.println("sange");
+        System.out.println("sange");
     }
 }
