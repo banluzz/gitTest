@@ -20,5 +20,6 @@ public class test333 {
         System.out.println("laosi");
         System.out.println("laosi");
         System.out.println("laosi");
+        System.out.println("laowu");
     }
 }
